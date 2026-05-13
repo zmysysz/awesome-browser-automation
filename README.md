@@ -23,6 +23,7 @@ Browser automation is the act of executing actions automatically in a web browse
 * [Cypress](https://www.cypress.io) - E2E testing for JavaScript through a browser.
 * [Endtest](https://endtest.io) - Cloud-based codeless automated testing.
 * [Erik](https://github.com/phimage/Erik) - Headless browser for functional tests in Swift, based on WebKit and [Kanna](https://github.com/tid-kijyun/Kanna).
+* [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Playwright wrapper for a stealth-patched Firefox 150, drop-in replacement returning native Playwright Browser objects.
 * [Katalon Recorder](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid) - A solution to kick-start test automation for small companies & start-ups.
 * [Mechanize](https://mechanize.readthedocs.io/en/latest) - Programmatic web browser emulation in Python.
 * [Nightmare](https://github.com/segmentio/nightmare) - High-level browser automation built on top of Electron.
